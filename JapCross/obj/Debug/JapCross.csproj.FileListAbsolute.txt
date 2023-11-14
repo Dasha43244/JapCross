@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\JapCross\JapCross\bin\Debug\JapCross.exe.config
+C:\Users\User\source\repos\JapCross\JapCross\bin\Debug\JapCross.exe
+C:\Users\User\source\repos\JapCross\JapCross\bin\Debug\JapCross.pdb
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.Form1.resources
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.Properties.Resources.resources
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.csproj.GenerateResource.cache
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.exe
+C:\Users\User\source\repos\JapCross\JapCross\obj\Debug\JapCross.pdb
